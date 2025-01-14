@@ -57,7 +57,7 @@ Password Pals Manager Backend is a server-side application that handles the stor
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone password-manager-back.git
 ```
 
 2. Install dependencies:
